@@ -11,8 +11,9 @@ approach (CSS Modules, Tailwind, styled-components) and any UI library.
 
 > **Full brief and concepts** are in your course workspace repo:
 > `content/m3-styling/m3a1-course-companion.md`, and the styling docs
-> `content/m3-styling/01`-`07`. How you are graded:
-> `content/m3-styling/ASSESSMENT.md`.
+> `content/m3-styling/01`-`07`. **Graded out of 100: 50 automated (builds, runs,
+> the flashcard contract, responsive, real styling) plus a 50-point design
+> rubric. Full rubric in `content/m3-styling/ASSESSMENT.md`.
 
 ## What to build
 
